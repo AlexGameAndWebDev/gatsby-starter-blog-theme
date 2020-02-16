@@ -7,9 +7,9 @@ module.exports = {
   ],
   // Customize your site metadata:
   siteMetadata: {
-    title: `My Blog Title`,
-    author: `My Name`,
-    description: `My site description...`,
+    title: `Informatichiamo`,
+    author: `Alessandro Belotti`,
+    description: `Questo è un blog che parla di informatica a 360 gradi. Si trattano argomenti che variano dalla programmazione all'elettronica fino a parlare di Machine Learning e creazione di siti web.`,
     social: [
       {
         name: `twitter`,
