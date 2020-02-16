@@ -7,10 +7,12 @@ import { Styled } from "theme-ui"
 
 export default () => (
   <Fragment>
-    This is where <Styled.a href="http://example.com/">your name</Styled.a>
+    Hey piacere di conoscerti io sono <Styled.a href="http://example.com/">Alessandro</Styled.a>
     {` `}
-    goes.
+    uno sviluppatore e studente che la sera si trasforma in un blogger.
     <br />
-    Or whatever, you make the rules.
+    In questo blog pubblico articoli inerenti a tutta l'informatica in generale! Come la programmazione, i circuiti, matematica e tanto altro.
+    <br />
+    Che aspetti? Comincia subito a guardare qualche articolo!  
   </Fragment>
 )
